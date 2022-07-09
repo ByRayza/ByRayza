@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ByRayza
-- 👀 I’m interested in ... Data Analysis
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Byron, my GitHub is in the process of being updated.
+- 👀 I’m interested in ... User Experience, Web Design, and Data Analysis
+- 🌱 I’m currently learning Web Design, Coding, & re-learning Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
